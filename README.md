@@ -1,4 +1,4 @@
-# Praticas-Livro-Entendendo-Algoritmos
+# Entendendo Algoritmos
 
 Repositório criado com a intenção de compartilhar alguns algoritmos apresentados
 e adaptados do livro entendendo algoritmos.
